@@ -1,7 +1,7 @@
 import java.util.Random;
 
 class Wrog {
-	static int licznik;;
+	static int licznik;
 	int pozycjaStartowaX;
 	int pozycjaStartowaY;
 }
